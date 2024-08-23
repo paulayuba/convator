@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-image:url("https://img.freepik.com/premium-photo/black-woman-cash-fan-finance-portrait-happy-with-prize-loan-dollars-isolated-blue-background-money-cashback-lottery-win-with-payment-financial-freedom-bills-studio_590464-215149.jpg") ;
+}

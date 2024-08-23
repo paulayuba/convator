@@ -19,7 +19,7 @@ const DollarToNairaConverter = () => {
 
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
-      <div className="bg-white p-8 rounded-lg shadow-md max-w-md w-full">
+      <div className="bg-white p-8 rounded-lg shadow-md max-w-md w-full"><img src="https://img.freepik.com/premium-photo/black-woman-cash-fan-finance-portrait-happy-with-prize-loan-dollars-isolated-blue-background-money-cashback-lottery-win-with-payment-financial-freedom-bills-studio_590464-215149.jpg" alt="" />
         <h2 className="text-2xl font-bold mb-6 text-center">Dollar to Naira Converter</h2>
         <div className="mb-4">
           <label htmlFor="dollarAmount" className="block text-gray-700 mb-2">Enter amount in USD:</label>
@@ -45,6 +45,7 @@ const DollarToNairaConverter = () => {
           </div>
         )}
       </div>
+      
     </div>
   );
 };
